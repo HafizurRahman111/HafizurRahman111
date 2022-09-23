@@ -44,6 +44,9 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Laravel" height="25" src="images/laravel.png"></code>
+  <code><img title="Docker" height="25" src="images/docker.png"></code>
+  <code><img title="Elastic Search" height="25" src="images/elastic.png"></code>
   
 </p>
 <hr>
