@@ -20,7 +20,7 @@ I'm experienced in developing and maintaining web applications using modern tech
   <br>
   💻 I love writing code and learning anything about it
   <br>
-  💬 My Portfolio Website: <a href="https://hafizur.netlify.app/" title="hafizur Web">Hafizur's Site</a>
+  💬 My Portfolio Website: <a href="https://hafizur.netlify.app/" title="Hafizur Rahman's Website">Hafizur's Site</a>
   <br>
   📫 How to reach me: <a href="mailto: hhafizur6@gmail.com">hhafizur6@gmail.com</a> 
 </p>
@@ -29,24 +29,24 @@ I'm experienced in developing and maintaining web applications using modern tech
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="PHP" height="25" src="images/php.svg"></code>
-  <code><img title="Laravel" height="25" src="images/laravel.png"></code>
-  <code><img title="Docker" height="25" src="images/docker.png"></code>
-  <code><img title="Elastic Search" height="25" src="images/elastic.png"></code>
+  <code><img title="C" height="30" src="images/c.svg"></code>
+  <code><img title="C++" height="30" src="images/cpp.svg"></code>
+  <code><img title="Python" height="30" src="images/python-original.svg"></code>
+  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
+  <code><img title="CSS" height="30" src="images/css.svg"></code>
+  <code><img title="Git" height="30" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="30" src="images/vscode.png"></code>
+  <code><img title="JQuery" height="30" src="images/jquery-original.svg"></code>
+  <code><img title="Java" height="30" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="30" src="images/json.svg"></code>
+  <code><img title="GitHub" height="30" src="images/github.svg"></code>
+  <code><img title="MySQL" height="30" src="images/mysql.svg"></code>
+  <code><img title="PHP" height="30" src="images/php.svg"></code>
+  <code><img title="Laravel" height="30" src="images/laravel.png"></code>
+  <code><img title="Docker" height="30" src="images/docker.png"></code>
+  <code><img title="Elastic Search" height="30" src="images/elastic.png"></code>
   
 </p>
 <hr>
