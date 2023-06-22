@@ -53,6 +53,16 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
+
+[![Repos](https://img.shields.io/github/repo-count/HafizurRahman111/HafizurRahman111?label=Repos&logo=github)](https://github.com/HafizurRahman111)
+
+  <!-- GitHub Stats - Additional Information -->
+<p align="center">
+  <img height="20" src="https://img.shields.io/badge/Repos-50+-blueviolet?style=flat-square" alt="Repositories">
+  <img height="20" src="https://img.shields.io/badge/Contributions-1500+-brightgreen?style=flat-square" alt="Contributions">
+  <img height="20" src="https://img.shields.io/badge/Followers-500+-orange?style=flat-square" alt="Followers">
+</p>
+
 <p align=center>
   <div align=center>
     <!-- GitHub Stats - Contributions -->
@@ -73,15 +83,6 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=HafizurRahman111&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  <!-- GitHub Stats - Additional Information -->
-<p align="center">
-  <img height="20" src="https://img.shields.io/badge/Repos-50+-blueviolet?style=flat-square" alt="Repositories">
-  <img height="20" src="https://img.shields.io/badge/Contributions-1500+-brightgreen?style=flat-square" alt="Contributions">
-  <img height="20" src="https://img.shields.io/badge/Followers-500+-orange?style=flat-square" alt="Followers">
-</p>
 
 
 
