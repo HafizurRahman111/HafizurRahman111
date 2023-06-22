@@ -5,19 +5,23 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hafizur+Rahman;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
- <p>Hello, welcome to my profile.
-I'm experienced in developing and maintaining web applications using modern technologies with a strong passion for innovation, problem-solving, and utilizing technology to drive solutions. I like to solve problems and do research work, including robotics. Passionate about staying up-to-date with the latest technologies and trends in software development. I am always seeking new challenges and opportunities to expand my skill set and contribute to the latest advancements in the field. I also seek opportunities to apply my technical expertise and drive impact in a fast-paced and dynamic environment. I believe in the power of technology to transform the world and enjoy working on diverse projects that challenge me to grow personally and professionally.</p>
 
 <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/hafizur-rahman-51415120/" target="_blank" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/###" target="_blank" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://stackoverflow.com/users/###" target="_blank" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code>
+    <a href="https://www.hackerrank.com/###" target="_blank" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a>
+  </code>
+  <code>
+    <a href="https://stackoverflow.com/users/###" target="_blank" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a>
+  </code>
  
 </h5>
 <br>
 <p align="center">
-  Hi, This is Md. Hafizur Rahman, Researcher & Computer Engineer & Software Developer from Bangladesh
+   Hi, This is <b> Md. Hafizur Rahman. </b>
+I'm experienced in developing and maintaining web applications using modern technologies with a strong passion for innovation, problem-solving, and utilizing technology to drive solutions. I like to solve problems and do research work, including robotics. Passionate about staying up-to-date with the latest technologies and trends in software development. I am always seeking new challenges and opportunities to expand my skill set and contribute to the latest advancements in the field. I also seek opportunities to apply my technical expertise and drive impact in a fast-paced and dynamic environment. I believe in the power of technology to transform the world and enjoy working on diverse projects that challenge me to grow personally and professionally.
+
   <br>
   <br>
   💻 I love writing code and learning anything about it
