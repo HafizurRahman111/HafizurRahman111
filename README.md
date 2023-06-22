@@ -18,9 +18,9 @@
   Hi, This is Md. Hafizur Rahman, Researcher & Computer Engineer & Software Developer from Bangladesh
   <br>
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love writing code and learning anything about it
   <br>
-  💬 My Portfoilo Website: <a href="https://hafizur.netlify.app/" title="hafizur Web">Hafizur's Site</a>
+  💬 My Portfolio Website: <a href="https://hafizur.netlify.app/" title="hafizur Web">Hafizur's Site</a>
   <br>
   📫 How to reach me: <a href="mailto: hhafizur6@gmail.com">hhafizur6@gmail.com</a> 
 </p>
@@ -56,10 +56,10 @@
 <p align=center>
   <div align=center>
     <a href="#" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=react&border=61dafb&hide_border=true" alt="HafizurRahman111" />
+      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?username=HafizurRahman111&theme=react&border=61dafb&hide_border=true" alt="HafizurRahman111" />
     </a>
     <a href="#" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
