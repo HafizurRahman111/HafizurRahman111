@@ -56,7 +56,7 @@
 <p align=center>
   <div align=center>
     <a href="#" title="Go to Source">
-      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?username=HafizurRahman111&theme=react&border=61dafb&hide_border=true" alt="HafizurRahman111" />
+      <img align="left" width=380 src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=react&border=61dafb&hide_border=true" alt="HafizurRahman-Contributions & Streak" />
     </a>
     <a href="#" title="Go to Source">
       <img align="right" width=380 src="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
