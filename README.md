@@ -3,9 +3,9 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hafizur+Rahman;Nice+to+meet+you!&center=true&size=30">
-    <p>Hello, welcome to my profile.
-I'm experienced in developing and maintaining web applications using modern technologies with a strong passion for innovation, problem-solving, and utilizing technology to drive solutions. I like to solve problems and do research work, including robotics. Passionate about staying up-to-date with the latest technologies and trends in software development. I am always seeking new challenges and opportunities to expand my skill set and contribute to the latest advancements in the field. I also seek opportunities to apply my technical expertise and drive impact in a fast-paced and dynamic environment. I believe in the power of technology to transform the world and enjoy working on diverse projects that challenge me to grow personally and professionally.</p>
   </a>
+   <p>Hello, welcome to my profile.
+I'm experienced in developing and maintaining web applications using modern technologies with a strong passion for innovation, problem-solving, and utilizing technology to drive solutions. I like to solve problems and do research work, including robotics. Passionate about staying up-to-date with the latest technologies and trends in software development. I am always seeking new challenges and opportunities to expand my skill set and contribute to the latest advancements in the field. I also seek opportunities to apply my technical expertise and drive impact in a fast-paced and dynamic environment. I believe in the power of technology to transform the world and enjoy working on diverse projects that challenge me to grow personally and professionally.</p>
 </h1>
 
 <h5 align="center">
