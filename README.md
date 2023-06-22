@@ -57,7 +57,7 @@
 <p align=center>
   <div align=center>
     <a href="#" title="Profile Summary">
-      <img width="840" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" alt="Profile Summary Cards" />
+      <img width="850" height="300" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" alt="Profile Summary Cards" />
     </a>
     <a href="#" title="Contributions & Streak">
       <img width="400" height="200" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=react&border=61dafb&hide_border=true" alt="HafizurRahman-Contributions & Streak" />
