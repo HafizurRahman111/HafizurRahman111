@@ -55,6 +55,7 @@
 <br>
 <p align=center>
   <div align=center>
+    <!-- GitHub Stats - Contributions -->
     <a href="#" title="Contributions & Streak">
       <img height="180" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=react&border=61dafb&hide_border=true" alt="HafizurRahman-Contributions & Streak" />
     </a>
@@ -64,6 +65,7 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
+    <!-- GitHub Stats - Language Card -->
     <a href="#" title="Used Languages">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&layout=compact&border_color=61dafb&hide_border=true" alt="Used Languages" />
     </a>
@@ -80,14 +82,10 @@
   <img height="20" src="https://img.shields.io/badge/Contributions-1500+-brightgreen?style=flat-square" alt="Contributions">
   <img height="20" src="https://img.shields.io/badge/Followers-500+-orange?style=flat-square" alt="Followers">
 </p>
-<!-- GitHub Stats - Language Card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&langs_count=6&layout=compact&theme=radical" alt="Top Languages">
-</p>
-<!-- GitHub Stats - Contributions -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=radical" alt="Contributions Streak">
-</p>
+
+
+
+
 <!-- GitHub Stats - Trophy -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HafizurRahman111&theme=onedark&row=2&column=3" alt="Trophy">
