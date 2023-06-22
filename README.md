@@ -82,19 +82,19 @@
 </p>
 <!-- GitHub Stats - Language Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc&langs_count=6&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&langs_count=6&layout=compact&theme=radical" alt="Top Languages">
 </p>
 <!-- GitHub Stats - Contributions -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abc&theme=radical" alt="Contributions Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=radical" alt="Contributions Streak">
 </p>
 <!-- GitHub Stats - Trophy -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abc&theme=onedark&row=2&column=3" alt="Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=HafizurRahman111&theme=onedark&row=2&column=3" alt="Trophy">
 </p>
 <!-- GitHub Stats - Activity Graph -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=abc&theme=radical" alt="Activity Graph">
+  <img src="https://activity-graph.herokuapp.com/graph?username=HafizurRahman111&theme=radical" alt="Activity Graph">
 </p>
   
 </p>
