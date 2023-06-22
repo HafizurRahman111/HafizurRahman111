@@ -79,14 +79,6 @@
 
 
 
-<!-- GitHub Stats - Trophy -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HafizurRahman111&theme=onedark&row=2&column=3" alt="Trophy">
-</p>
-<!-- GitHub Stats - Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=HafizurRahman111&theme=radical" alt="Activity Graph">
-</p>
   
 </p>
 
