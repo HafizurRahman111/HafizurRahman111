@@ -56,8 +56,6 @@
 
 <p align=center>
   <div align=center>
-
-    <!-- GitHub Stats - Contributions -->
     <a href="#" title="Contributions & Streak">
       <img height="180" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=react&border=61dafb&hide_border=true" alt="HafizurRahman-Contributions & Streak" />
     </a>
