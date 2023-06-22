@@ -59,7 +59,7 @@
 
  <!-- GitHub Stats - Profile Summary Cards -->
   <a href="#" title="Profile Summary">
-      <img height="20" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" alt="Profile Summary Cards">
+      <img height="20" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" alt="Profile Summary Cards" />
  </a>
   
     <!-- GitHub Stats - Contributions -->
