@@ -26,7 +26,7 @@ I'm experienced in developing and maintaining web applications using modern tech
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages - Frameworks - Tools - Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="30" src="images/c.svg"></code>
@@ -66,11 +66,11 @@ I'm experienced in developing and maintaining web applications using modern tech
       <img width="385" height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=calm&border_color=61dafb&hide_border=true" alt="HafizurRahman-GitHub Stats" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br>
   <div align=center>
     <!-- GitHub Stats - Language Card -->
     <a href="#" title="Used Languages">
-      <img width="600" height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&layout=compact&border_color=61dafb&hide_border=true" alt="Used Languages" />
+      <img width="600" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&layout=compact&border_color=61dafb&hide_border=true" alt="Used Languages" />
     </a>
   </div>
   <br>
