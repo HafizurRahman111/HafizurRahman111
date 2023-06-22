@@ -63,7 +63,7 @@
       <img width="420" height="250" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=react&border=61dafb&hide_border=true" alt="HafizurRahman-Contributions & Streak" />
     </a>
     <a href="#" title="GitHub Stats">
-      <img width="400" height="250" align="right" src="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="HafizurRahman-GitHub Stats" />
+      <img width="390" height="250" align="right" src="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="HafizurRahman-GitHub Stats" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
