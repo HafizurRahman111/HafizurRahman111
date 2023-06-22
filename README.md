@@ -70,6 +70,9 @@
   </div>
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=HafizurRahman111&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+  
 </p>
 
 <hr>
