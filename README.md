@@ -58,8 +58,7 @@
 
   <!-- GitHub Stats - Additional Information -->
 <p align="center">
-   <img height="20" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" alt="Repositories">
-  
+ 
  
   
   <img height="20" src="https://img.shields.io/badge/Repos-50+-blueviolet?style=flat-square" alt="Repositories">
@@ -69,6 +68,10 @@
 
 <p align=center>
   <div align=center>
+
+      <img height="20" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" alt="Profile Summary Cards">
+
+  
     <!-- GitHub Stats - Contributions -->
     <a href="#" title="Contributions & Streak">
       <img height="180" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=react&border=61dafb&hide_border=true" alt="HafizurRahman-Contributions & Streak" />
