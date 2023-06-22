@@ -56,20 +56,20 @@ I'm experienced in developing and maintaining web applications using modern tech
 
 <p align=center>
   <div align=center>
-    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" title="Profile Summary" target="_blank">
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" target="_blank" title="Profile Summary">
       <img width="860" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" alt="Profile Summary Cards" />
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=calm&border=61dafb&hide_border=true" title="Contributions & Streak" target="_blank">
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=calm&border=61dafb&hide_border=true" target="_blank" title="Contributions & Streak">
       <img width="420" height="180" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=calm&border=61dafb&hide_border=true" alt="HafizurRahman-Contributions & Streak" />
     </a>
-    <a href="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=calm&border_color=61dafb&hide_border=true" title="GitHub Stats" target="_blank">
+    <a href="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=calm&border_color=61dafb&hide_border=true" target="_blank" title="GitHub Stats">
       <img width="385" height="180" align="right" src="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=calm&border_color=61dafb&hide_border=true" alt="HafizurRahman-GitHub Stats" />
     </a>
   </div>
   <br><br><br><br><br><br><br>
   <div align=center>
     <!-- GitHub Stats - Language Card -->
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&layout=compact&border_color=61dafb&hide_border=true" title="Used Languages" target="_blank">
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&layout=compact&border_color=61dafb&hide_border=true" target="_blank" title="Used Languages">
       <img width="600" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=12&layout=compact&border_color=61dafb&hide_border=true" alt="Used Languages" />
     </a>
   </div>
