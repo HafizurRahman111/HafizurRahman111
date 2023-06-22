@@ -60,10 +60,10 @@
       <img width="850" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" alt="Profile Summary Cards" />
     </a>
     <a href="#" title="Contributions & Streak">
-      <img width="420" height="230" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=react&border=61dafb&hide_border=true" alt="HafizurRahman-Contributions & Streak" />
+      <img width="420" height="230" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=nord_dark&border=61dafb&hide_border=true" alt="HafizurRahman-Contributions & Streak" />
     </a>
     <a href="#" title="GitHub Stats">
-      <img width="385" height="230" align="right" src="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="HafizurRahman-GitHub Stats" />
+      <img width="385" height="230" align="right" src="https://github-readme-stats.vercel.app/api?username=HafizurRahman111&show_icons=true&theme=nord_dark&border_color=61dafb&hide_border=true" alt="HafizurRahman-GitHub Stats" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
