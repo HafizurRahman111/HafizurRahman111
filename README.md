@@ -72,6 +72,30 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=HafizurRahman111&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafizurRahman111&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  <!-- GitHub Stats - Additional Information -->
+<p align="center">
+  <img height="20" src="https://img.shields.io/badge/Repos-50+-blueviolet?style=flat-square" alt="Repositories">
+  <img height="20" src="https://img.shields.io/badge/Contributions-1500+-brightgreen?style=flat-square" alt="Contributions">
+  <img height="20" src="https://img.shields.io/badge/Followers-500+-orange?style=flat-square" alt="Followers">
+</p>
+<!-- GitHub Stats - Language Card -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abc&langs_count=6&layout=compact&theme=radical" alt="Top Languages">
+</p>
+<!-- GitHub Stats - Contributions -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abc&theme=radical" alt="Contributions Streak">
+</p>
+<!-- GitHub Stats - Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abc&theme=onedark&row=2&column=3" alt="Trophy">
+</p>
+<!-- GitHub Stats - Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=abc&theme=radical" alt="Activity Graph">
+</p>
   
 </p>
 
