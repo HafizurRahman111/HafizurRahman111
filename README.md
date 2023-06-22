@@ -54,10 +54,14 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-[![Repos](https://img.shields.io/github/repo-count/HafizurRahman111/HafizurRahman111?label=Repos&logo=github)](https://github.com/HafizurRahman111)
+
 
   <!-- GitHub Stats - Additional Information -->
 <p align="center">
+   <img height="20" src="[https://img.shields.io/badge/Repos-50+-blueviolet?style=flat-square](https://img.shields.io/github/repo-count/HafizurRahman111/HafizurRahman111?label=Repos&logo=github)" alt="Repositories">
+  
+ 
+  
   <img height="20" src="https://img.shields.io/badge/Repos-50+-blueviolet?style=flat-square" alt="Repositories">
   <img height="20" src="https://img.shields.io/badge/Contributions-1500+-brightgreen?style=flat-square" alt="Contributions">
   <img height="20" src="https://img.shields.io/badge/Followers-500+-orange?style=flat-square" alt="Followers">
