@@ -57,7 +57,7 @@ I'm experienced in developing and maintaining web applications using modern tech
 <p align=center>
   <div align=center>
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" target="_blank" title="Profile Summary">
-      <img width="860" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" alt="Profile Summary Cards" />
+      <img width="860" height="200" src="" alt="Profile Summary Cards" />
     </a>
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=calm&border=61dafb&hide_border=true" target="_blank" title="Contributions & Streak">
       <img width="420" height="180" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=HafizurRahman111&theme=calm&border=61dafb&hide_border=true" alt="HafizurRahman-Contributions & Streak" />
