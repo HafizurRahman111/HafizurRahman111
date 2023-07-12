@@ -53,7 +53,7 @@ I'm experienced in developing and maintaining web applications using modern tech
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<h5> Total Repository: 33 </h5>
+<h5> Total Repository: 35 </h5>
 <p align=center>
   <div align=center>
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" target="_blank" title="Profile Summary">
