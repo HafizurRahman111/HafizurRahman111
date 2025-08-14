@@ -15,7 +15,7 @@
 <p align="center">
    Hi, This is <b> Md. Hafizur Rahman. </b>
 I'm experienced in developing and maintaining web applications using modern technologies with a strong passion for innovation, problem-solving, and utilizing technology to drive solutions. Passionate about staying up-to-date with the latest technologies and trends in software development. I am always seeking new challenges and opportunities to expand my skill set and contribute to the latest advancements in the field. I believe in the power of technology to transform the world and enjoy working on diverse projects that challenge me to grow personally and professionally.
-
+  
   <br>
   <br>
   💻 I love writing code and learning anything about it
@@ -53,7 +53,7 @@ I'm experienced in developing and maintaining web applications using modern tech
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<h5> Total Repository: 64 </h5>
+<h5> Total Repository: 90 </h5>
 <p align=center>
   <div align=center>
     <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HafizurRahman111&theme=nord_dark" target="_blank" title="Profile Summary">
