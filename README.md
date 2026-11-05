@@ -83,63 +83,6 @@
   </tr>
 </table>
 
-<h3 align="center">🚀 Projects</h3>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HafizurRahman111/cse-499a-499b-bid-n-buy"><b>Bid n Buy</b></a><br>
-      <sub>Final year project (Senior Design), built for the web.</sub><br>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HafizurRahman111/cse-482-bazar"><b>Bazar</b></a><br>
-      <sub>Online grocery and daily-needs marketplace for buyers and sellers, with home delivery.</sub><br>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HafizurRahman111/cse-327-biyebari"><b>BiyeBari</b></a><br>
-      <sub>Web application built for the Software Engineering course.</sub><br>
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HafizurRahman111/expense-tracker-app"><b>Expense Tracker</b></a><br>
-      <sub>A simple app to track expenses.</sub><br>
-      <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HafizurRahman111/cse-115-bank-management-system"><b>Bank Management System</b></a><br>
-      <sub>My first CSE project: account management in C.</sub><br>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HafizurRahman111/cse-498r-smart-blind-stick"><b>Smart Blind Stick</b></a><br>
-      <sub>Arduino project that helps blind people move around safely.</sub><br>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HafizurRahman111/cse-231-pattern-based-digital-lock-system"><b>Pattern-Based Digital Lock</b></a><br>
-      <sub>Hardware and software digital lock (Digital Logic Design).</sub><br>
-      
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/HafizurRahman111/cse-323-distance-measure-with-led-alarm"><b>Distance Meter with LED Alarm</b></a><br>
-      <sub>Measures the distance to an object and lights an alarm.</sub><br>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/HafizurRahman111?tab=repositories"><img src="https://img.shields.io/badge/All%20repositories-0f766e?style=flat-square&logo=github&logoColor=white" alt="All repositories"></a>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f766e&height=100&section=footer" alt="" width="100%">
 </p>
