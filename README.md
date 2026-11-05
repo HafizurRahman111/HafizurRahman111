@@ -42,11 +42,19 @@
   </tr>
   <tr>
     <td align="right"><sub><b>WEB</b></sub></td>
-    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,html,css,jquery,vue&theme=dark&perline=8"><img src="https://skillicons.dev/icons?i=laravel,html,css,jquery,vue&theme=light&perline=8" alt="Laravel, HTML, CSS, jQuery, Vue"></picture></td>
+    <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,html,css,tailwind,jquery,vue&theme=dark&perline=8"><img src="https://skillicons.dev/icons?i=laravel,html,css,tailwind,jquery,vue&theme=light&perline=8" alt="Laravel, HTML, CSS, Tailwind CSS, jQuery, Vue"></picture></td>
   </tr>
   <tr>
     <td align="right"><sub><b>DATA &amp; TOOLS</b></sub></td>
     <td><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,elasticsearch,git,github,docker,vscode&theme=dark&perline=8"><img src="https://skillicons.dev/icons?i=mysql,elasticsearch,git,github,docker,vscode&theme=light&perline=8" alt="MySQL, Elasticsearch, Git, GitHub, Docker, VS Code"></picture></td>
+  </tr>
+  <tr>
+    <td align="right"><sub><b>AI TOOLS</b></sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude">
+      <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge" alt="ChatGPT">
+      <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Antigravity">
+    </td>
   </tr>
 </table>
 
