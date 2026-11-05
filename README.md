@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f766e,100:1d4ed8&section=header&text=Md.%20Hafizur%20Rahman&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Web%20Developer%20%7C%20PHP%20%26%20Laravel&descSize=18&descAlignY=58" alt="Md. Hafizur Rahman, Web Developer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f766e,100:1d4ed8&section=header&text=Md.%20Hafizur%20Rahman&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Web%20Developer%20%7C%20PHP%20and%20Laravel&descSize=18&descAlignY=58" alt="Md. Hafizur Rahman, Web Developer" width="100%">
 </p>
 
 <p align="center">
