@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f766e,100:1d4ed8&section=header&text=Md.%20Hafizur%20Rahman&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Web%20Developer%20%7C%20PHP%20and%20Laravel&descSize=18&descAlignY=58" alt="Md. Hafizur Rahman, Web Developer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f766e,100:1d4ed8&section=header&text=Md.%20Hafizur%20Rahman&fontColor=ffffff&fontSize=42&fontAlignY=36&desc=Software%20Engineer&descSize=18&descAlignY=58" alt="Md. Hafizur Rahman, Software Engineer" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=560&height=40&lines=Building+web+applications+with+PHP+%26+Laravel;Turning+real+problems+into+working+software;Always+learning+something+new" alt="Building web applications with PHP and Laravel">
+  <img src="https://readme-typing-svg.demolab.com/?font=Segoe+UI&weight=500&size=20&pause=1200&color=0F766E&center=true&vCenter=true&width=560&height=40&lines=Software+Engineer;Building+web+applications+with+PHP+%26+Laravel;Turning+real+problems+into+working+software;Always+learning+something+new" alt="Software Engineer building web applications with PHP and Laravel">
 </p>
 
 <p align="center">
@@ -19,12 +19,13 @@
   <tr>
     <td width="58%" valign="top">
       <h3>👋 About me</h3>
-      I build and maintain web applications with modern tools, and I enjoy using technology to solve real problems.
+      I'm a Software Engineer who builds and maintains web applications with modern tools, and I enjoy using technology to solve real problems.
       I keep up with new tools and trends, and I look for work that challenges me to grow.
     </td>
     <td width="42%" valign="top">
       <h3>⚡ At a glance</h3>
-      💻&nbsp; Web development with PHP &amp; Laravel<br>
+      👨‍💻&nbsp; Software Engineer<br>
+      💻&nbsp; Web applications with PHP &amp; Laravel<br>
       🗄️&nbsp; MySQL and Elasticsearch<br>
       🐳&nbsp; Git, GitHub and Docker<br>
       📫&nbsp; <a href="mailto:hhafizur6@gmail.com">hhafizur6@gmail.com</a>
