@@ -108,8 +108,6 @@ I'm experienced in developing and maintaining web applications using modern tech
   </tr>
 </table>
 
-<p align="center"><sub>Live from GitHub: the badges and cards update on their own (cached for a few hours) and follow your light or dark GitHub theme. Public activity only.</sub></p>
-
 <hr>
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
